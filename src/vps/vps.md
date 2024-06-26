@@ -2,7 +2,6 @@
 order: 3
 authors:
 - luckyloo1730
-- notalunar
 ---
 
 # Что такое VPS?
